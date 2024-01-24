@@ -5,7 +5,3 @@ const sum=5;
 function say(){
     console.log('My name is ' + name1)
 }
-const yt=90;
-function isAbove18(){
-    return age>=18
-}
