@@ -22,3 +22,7 @@ function newFeatureD(){
     console.log('this is newFeature')
     console.log('this is new feature C')
 }
+function newFeatureE(){
+    console.log('this is newFeature')
+    console.log('this is new feature C')
+}
