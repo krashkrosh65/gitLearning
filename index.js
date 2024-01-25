@@ -5,3 +5,7 @@ const sum=5;
 function say(){
     console.log('My name is ' + name1)
 }
+
+function newFeature(){
+    console.log('this is newFeature');
+}
