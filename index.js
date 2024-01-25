@@ -10,3 +10,7 @@ function newFeature(){
     console.log('this is newFeature')
     console.log('this is new feature A')
 }
+function newFeatureB(){
+    console.log('this is newFeature')
+    console.log('this is new feature B')
+}
