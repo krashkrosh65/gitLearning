@@ -7,5 +7,6 @@ function say(){
 }
 
 function newFeature(){
-    console.log('this is newFeature');
+    console.log('this is newFeature')
+    console.log('this is new feature A')
 }
